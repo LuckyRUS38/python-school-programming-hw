@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06584a0d-00ed-46b2-a720-34162b00deff" name="Changes" comment="H/W 12.01.24">
-      <change afterPath="$PROJECT_DIR$/12january2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12january2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/12january2024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,15 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="H/W 12.01.24">
+      <option name="closed" value="true" />
+      <created>1705031631050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705031631050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="H/W 12.01.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="H/W 12.01.24" />
   </component>
 </project>
