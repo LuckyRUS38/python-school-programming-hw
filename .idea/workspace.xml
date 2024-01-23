@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06584a0d-00ed-46b2-a720-34162b00deff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_01_2024_11_50_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_01_2024_11_50_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_01_2024_11_50__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12january2024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12januaryClassWork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/.ipynb_checkpoints/Без названия-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/Examples.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12january2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/12january2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12januaryClassWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/12januaryClassWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/bubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/algorithms/bubbleSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/.ipynb_checkpoints/Без названия-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/lesssons/NumPy (dataScience)/.ipynb_checkpoints/Без названия-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/Examples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/lesssons/NumPy (dataScience)/Examples.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesssons/NumPy (dataScience)/examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/lesssons/NumPy (dataScience)/examples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +56,7 @@
     "Python.12januaryClassWork.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Develop/Projects/python-school",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +66,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fullo\PycharmProjects\pythonProject\Homework" />
+      <recent name="C:\Users\fullo\PycharmProjects\pythonProject\Classwork" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,7 +99,15 @@
       <workItem from="1705039163865" duration="3752000" />
       <workItem from="1705131620958" duration="599000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="H/W 12.01.24">
+      <option name="closed" value="true" />
+      <created>1705978890473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705978890473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
